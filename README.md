@@ -20,9 +20,9 @@
 <!-- Social / contact badges -->
 <p align="center">
   <a href="https://github.com/Gokul-bit165"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Gokul-bit165?label=follow&style=social"/></a>
-  <a href="https://www.linkedin.com/in/your-link"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-important?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://your-portfolio.example.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-website-222?style=for-the-badge&logo=google-chrome"/></a>
+  <a href="[https://https://www.linkedin.com/in/gokul-v-92bbb5329/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"/></a>
+  <a href="mailto:gokulvm.ad24@bitsathy.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-contact-important?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://huggingface.co/GokulV"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-website-222?style=for-the-badge&logo=google-chrome"/></a>
 </p>
 
 </div>
