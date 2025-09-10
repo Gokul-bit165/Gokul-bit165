@@ -1,11 +1,9 @@
 <p align="center">
   <img src="assets/typing_transparent.gif" width="800" alt="Typing Console Effect">
 </p>
-
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="4" alt="Blinking Cursor"/>
 </p>
-
 <!-- 🔥 Futuristic Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=3ABEFF&center=true&vCenter=true&width=1000&lines=AI+%26+Cloud+for+Good;Machine+Learning+%7C+Deep+Learning;Hackathon+Builder+%7C+Open+Source;PCA+%7C+Clustering+%7C+DevOps;Future+Ready+Innovator" alt="Typing SVG"/>
