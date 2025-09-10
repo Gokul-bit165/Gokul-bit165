@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=42F56C&center=true&vCenter=true&repeat=false&width=900&lines=Hi%2C+I'm+Gokul+V_|" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=42F56C&center=true&vCenter=true&width=1000&lines=^‿^+Hi%2C+I'm+Gokul+V;(•‿•)+AI+%26+Cloud+Enthusiast;٩(◕‿◕｡)۶+Hackathon+Builder" alt="Typing SVG">
 </p>
-<h3 align="center">AI & Cloud Enthusiast | Hackathon Builder</h3>
+
 
 <!-- 🔥 Futuristic Typing Header -->
 <p align="center">
