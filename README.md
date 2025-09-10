@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=42F56C&center=true&vCenter=true&repeat=false&width=900&lines=Hi%2C+I'm+Gokul+V_|" alt="Typing SVG">
+</p>
+<p align="center">
   <svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
     <style>
       .text { 
