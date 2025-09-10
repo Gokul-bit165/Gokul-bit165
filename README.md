@@ -5,10 +5,8 @@
   <!-- Animated Typing Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=42f56c&center=true&vCenter=true&width=1000&lines=AI+%26+Cloud+for+Good;Building+AI+for+Healthcare;ML+%7C+NumPy+%7C+Matplotlib+%7C+DevOps;Hackathon+Builder+%7C+Open+Source+Contributor" alt="Typing SVG"/>
 </p>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+  <img src="https://i.imgur.com/o5cP3.gif" width="100%" height="20"/>
 </p>
 
 ---
