@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=42F56C&center=true&vCenter=true&repeat=true&width=1000&lines=Hi%2C+I'm+Gokul+V" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=42F56C&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Gokul+V;&repeat=true" alt="Typing SVG"/>
 </p>
 
 <h3 align="center">AI & Cloud Enthusiast | Hackathon Builder</h3>
