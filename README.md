@@ -1,5 +1,25 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=42F56C&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Gokul+V;&repeat=true" alt="Typing SVG"/>
+  <svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .text { 
+        font-size: 48px; 
+        font-family: 'Fira Code', monospace; 
+        fill: #42f56c; 
+      }
+      .cursor {
+        fill: #42f56c;
+        animation: blink 1s infinite;
+      }
+      @keyframes blink {
+        0%, 50% { opacity: 1; }
+        51%, 100% { opacity: 0; }
+      }
+    </style>
+    <text x="50%" y="50%" text-anchor="middle" class="text" dominant-baseline="middle">
+      Hi, I'm Gokul V
+    </text>
+    <text x="53%" y="50%" text-anchor="start" class="cursor" dominant-baseline="middle">|</text>
+  </svg>
 </p>
 
 <h3 align="center">AI & Cloud Enthusiast | Hackathon Builder</h3>
