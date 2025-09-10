@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=42&pause=1000&color=42F56C&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Gokul+^‿^|" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=2000&pause=1000&color=42F56C&center=true&vCenter=true&repeat=false&width=1000&lines=Hi%2C+I'm+Gokul+^‿^" alt="Typing SVG">
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="4" alt="Blinking Cursor"/>
 </p>
 
 <!-- 🔥 Futuristic Typing Header -->
