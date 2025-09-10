@@ -1,74 +1,120 @@
-<div align="center">
-  
-  <!-- Green-themed animated typing header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=42f56c&center=true&width=780&lines=Hi+%F0%9F%91%8B+I'm+Gokul+V.;AI+%26+Cloud+Enthusiast+%7C+Hackathon+Builder;Building+AI+solutions+for+healthcare" alt="Typing SVG"/>
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gokul-v-92bbb5329/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gokul9942786@gmail.com) 
+<h1 align="center">Hi 👋, I'm Gokul V</h1>
+<h3 align="center">AI & Cloud Enthusiast | Hackathon Builder</h3>
 
-  <!-- Tagline with green accents -->
-  <p align="center">
-    <b>🎓 Student • 🤖 AI & ML • ☁️ Cloud • 📱 Mobile & Web 🟩</b><br/>
-    Building AI-driven diagnostic solutions in Cardiology & Endocrinology.<br/>
-    Exploring NumPy, Matplotlib, and scalable cloud deployments. 🍃
-  </p>
-  
-  <!-- Animated green divider -->
-  <img src="https://svgshare.com/i/1kZL.svg" alt="green divider" width="80%"/>
-  
-  <!-- Social & contact badges in green -->
-  <p align="center">
-    <a href="https://github.com/Gokul-bit165">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/Gokul-bit165?label=follow&style=social"/>
-    </a>
-    <a href="https://www.linkedin.com/in/gokul-v-92bbb5329/">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-42f56c?logo=linkedin&style=for-the-badge"/>
-    </a>
-    <a href="mailto:gokulvm.ad24@bitsathy.ac.in">
-      <img alt="Email" src="https://img.shields.io/badge/Email-contact-42f56c?style=for-the-badge&logo=gmail"/>
-    </a>
-    <a href="https://huggingface.co/GokulV">
-      <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-website-42f56c?style=for-the-badge&logo=google-chrome"/>
-    </a>
-  </p>
-</div>
+<p align="center">
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=42f56c&center=true&vCenter=true&width=1000&lines=AI+%26+Cloud+for+Good;Building+AI+for+Healthcare;ML+%7C+NumPy+%7C+Matplotlib+%7C+DevOps;Hackathon+Builder+%7C+Open+Source+Contributor" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
+</p>
+
+---
+
+## 🚀 About Me
+🎓 I'm a dedicated **Data Science & AI student** passionate about practical healthcare solutions.  
+🤖 Focused on **Cardiology & Endocrinology diagnostics** with AI.  
+🌱 Exploring **NumPy, Pandas, Matplotlib, Cloud, DevOps, and scalable deployments**.  
+📚 Always curious about **probability in ML, Python fundamentals, and Linux**.  
+
+---
+
+## 🌐 Socials
+<p align="center">
+  <a href="https://linkedin.com/in/gokul-v-92bbb5329/" target="blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-42f56c?logo=linkedin&style=for-the-badge"/>
+  </a>
+  <a href="mailto:gokulvm.ad24@bitsathy.ac.in">
+    <img alt="Email" src="https://img.shields.io/badge/Email-contact-42f56c?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://huggingface.co/GokulV" target="blank">
+    <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-Profile-42f56c?style=for-the-badge&logo=huggingface"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Gokul-bit165">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Gokul-bit165?label=follow&style=social"/>
+  </a>
+</p>
+
+<img src="https://svgshare.com/i/1kZL.svg" alt="green divider" width="80%"/>
 
 ---
 
 ## 🧰 Skills & Tools
-
 - **Languages:** Python, Java, C  
 - **ML / Data:** NumPy, Pandas, Matplotlib, scikit-learn, PCA, clustering  
 - **Cloud / DevOps:** GitHub Actions, Docker (learning), DigitalOcean / AWS (Student Pack)  
 - **Mobile / Web:** Android (Java), HTML, CSS, Flask/Gradio for demos  
-- **Other:** Linux, Git, VS Code
+- **Other:** Linux, Git, VS Code  
 
-<img src="https://svgshare.com/i/1kZL.svg" alt="green divider" width="60%"/>
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/stable/_static/logo2.svg" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.digitalocean.com/" target="_blank"><img src="https://img.icons8.com/?size=80&id=SrRAkTIp71YZ&format=png" width="40" height="40"/></a>
+</p>
 
 ---
 
 ## 🚀 Highlight Projects
-
-- **AI for Cardiology & Endocrinology** — Hackathon project addressing diagnostic delays (NLP, anomaly detection, EHR/PACS integration).
-- **Crime Rate Prediction with PCA** — PCA for feature selection + regression pipeline and model evaluation.
-- **Clustering App (Gradio)** — KMeans/Hierarchical clustering demo with PDF export and interactive UI.
-
-_Visit my repositories for code, notebooks, and live demos._
+- **AI for Cardiology & Endocrinology** — Hackathon project addressing diagnostic delays (NLP, anomaly detection, EHR/PACS integration).  
+- **Crime Rate Prediction with PCA** — PCA for feature selection + regression pipeline and model evaluation.  
+- **Clustering App (Gradio)** — KMeans/Hierarchical clustering demo with PDF export and interactive UI.  
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gokul-bit165&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gokul-bit165&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-bit165&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 Trophies
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Gokul-bit165&theme=discord&no-frame=true&title=MultiLanguage,Star,Commit" alt="Trophies"/>
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
+---
+
+## 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gokul-bit165&show_icons=true&locale=en&theme=radical&layout=compact&card_width=500px" alt="Top Langs"/>
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gokul-bit165&show_icons=true&locale=en&theme=radical" alt="Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Gokul-bit165&theme=blue-green&hide_border=false" alt="Streak Stats"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+[![Gokul's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokul-bit165&bg_color=0d1117&color=42f56c&line=42f56c&point=2dba4e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+## 👀 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Gokul-bit165&label=Profile%20views&color=42f56c&style=flat" alt="Profile Views"/>
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=Gokul-bit165&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
-<!-- Optionally, add green accent emojis at section ends, or use a green animated custom SVG as section dividers for more unique visuals -->
-
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="22" width="100%"/>
+</p>
