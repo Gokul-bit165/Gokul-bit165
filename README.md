@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=42f56c&center=true&vCenter=true&width=1000&lines=AI+%26+Cloud+for+Good;Building+AI+for+Healthcare;ML+%7C+NumPy+%7C+Matplotlib+%7C+DevOps;Hackathon+Builder+%7C+Open+Source+Contributor" alt="Typing SVG"/>
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/o5cP3.gif" width="100%" height="60"/>
+  <img src="https://i.imgur.com/o5cP3.gif" width="100%" height="150"/>
 </p>
 
 ---
