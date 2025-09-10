@@ -1,11 +1,11 @@
 <p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="4" alt="Blinking Cursor"/>
+</p>
+<p align="center">
   <img src="assets/typing_transparent.gif" width="800" alt="Typing Console Effect">
 </p>
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="40"/>
-</p>
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="4" alt="Blinking Cursor"/>
 </p>
 <!-- 🔥 Futuristic Typing Header -->
 <p align="center">
