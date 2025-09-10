@@ -7,7 +7,7 @@
 </p>
 <!-- 🔥 Futuristic Banner -->
 <p align="center">
-  <img src="assets/python-animated.gif" alt="GIF Banner" width="100%"/>
+  <img src="assets/banner1.gif" alt="GIF Banner" width="100%"/>
 </p>
 
 <!-- 🔥 Futuristic Divider -->
