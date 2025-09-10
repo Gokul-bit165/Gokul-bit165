@@ -3,17 +3,15 @@
 
 <p align="center">
   <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=42f56c&center=true&vCenter=true&width=1000&lines=AI+%26+Cloud+for+Good;Building+AI+for+Healthcare;ML+%7C+NumPy+%7C+Matplotlib+%7C+DevOps;Hackathon+Builder+%7C+Open+Source+Contributor" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=42f56c&center=true&vCenter=true&width=1000&lines=AI+%26+Cloud+for+Good;Building+AI+for+Innovation;ML+%7C+NumPy+%7C+Matplotlib+%7C+DevOps;Hackathon+Builder+%7C+Open+Source+Contributor" alt="Typing SVG"/>
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/8MupZHY.gif" alt="coding banner" width="100%"/>
+  <img src="assets/banner.gif" alt="GIF Banner" width="100%"/>
 </p>
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="25"/>
 </p>
-
-
 
 ---
 
@@ -71,7 +69,7 @@
 ---
 
 ## 🚀 Highlight Projects
-- **AI for Cardiology & Endocrinology** — Hackathon project addressing diagnostic delays (NLP, anomaly detection, EHR/PACS integration).  
+- **AI for Cardiology & Endocrinology** — Hackathon project addressing diagnostic delays (anomaly detection).  
 - **Crime Rate Prediction with PCA** — PCA for feature selection + regression pipeline and model evaluation.  
 - **Clustering App (Gradio)** — KMeans/Hierarchical clustering demo with PDF export and interactive UI.  
 
