@@ -64,21 +64,5 @@ _Visit my repositories for code, notebooks, and live demos._
 
 ---
 
-## 💡 Interactive / Animated Widgets
 
-- Typing header is an animated SVG: `https://readme-typing-svg.herokuapp.com` (edit the `lines=` query to change text).  
-- Activity graph is dynamic SVG from `activity-graph.herokuapp.com`.  
-- GitHub stats are dynamic SVGs from `github-readme-stats.vercel.app`.
-
-> If any of the demo SVG services are rate-limited or blocked, swap them with GIFs or host a small animated GIF in your repo and link it.
-
----
-
-## 🧩 How to add a GIF / project demo
-You can embed a demo GIF (hosted in `/.github/assets/` or repo root):
-
-```md
-<p align="center">
-  <img src="assets/demo.gif" alt="app demo" width="720"/>
-</p>
 
