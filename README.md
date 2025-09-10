@@ -3,6 +3,9 @@
   <!-- Green-themed animated typing header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=42f56c&center=true&width=780&lines=Hi+%F0%9F%91%8B+I'm+Gokul+V.;AI+%26+Cloud+Enthusiast+%7C+Hackathon+Builder;Building+AI+solutions+for+healthcare" alt="Typing SVG"/>
   
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gokul-v-92bbb5329/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gokul9942786@gmail.com) 
+
   <!-- Tagline with green accents -->
   <p align="center">
     <b>🎓 Student • 🤖 AI & ML • ☁️ Cloud • 📱 Mobile & Web 🟩</b><br/>
@@ -54,17 +57,18 @@ _Visit my repositories for code, notebooks, and live demos._
 
 ---
 
-## 📊 GitHub Stats & Activity
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gokul-bit165&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gokul-bit165&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-bit165&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gokul-bit165&show_icons=true&theme=radical&hide_title=true" alt="Gokul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-bit165&layout=compact&theme=radical&hide_title=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Gokul-bit165&theme=react-dark&hide_border=true&line=42f56c&point=42f56c&color=42f56c&area=true&custom_title=Contribution+Graph" alt="Contribution graph" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Gokul-bit165&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Optionally, add green accent emojis at section ends, or use a green animated custom SVG as section dividers for more unique visuals -->
 
