@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/typing.gif" width="800" alt="Typing Console Effect">
+  <img src="assets/typing_transparent.gif" width="800" alt="Typing Console Effect">
 </p>
 
 <p align="center">
