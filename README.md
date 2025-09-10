@@ -12,7 +12,7 @@
   <img src="assets/banner.gif" alt="GIF Banner" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/AZ4A3.gif" width="100%" height="50"/>
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" height="80"/>
 </p>
 
 ---
